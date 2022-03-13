@@ -2,10 +2,11 @@
  Work of the subject Image Processing in the master of Computer Vision (URJC).
  
  
-### main_p1a.pdf -> main_p1a.mlx
 ## Frequency domain analysis -> highpassfilter (Butterworth's orders n and 2D.)
+main_p1a.pdf -> main_p1a.mlx
 ![image](https://user-images.githubusercontent.com/44602177/158068412-ae418510-3c97-40c9-8f79-3090a0af005e.png)
 ## Frequency domain analysis -> lowpassfilter (Butterworth's orders n and 2D.)
+main_p1a.pdf -> main_p1a.mlx
 ![image](https://user-images.githubusercontent.com/44602177/158068431-6f6e9ce8-da5f-46f6-b434-111a5f21a563.png)
 
 
